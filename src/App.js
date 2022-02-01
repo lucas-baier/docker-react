@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+          Hi there! Bye bye
+                    </p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>
+       I was changed a hundred times
+      </p>
     </div>
   );
 }
